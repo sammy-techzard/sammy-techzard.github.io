@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @sammy-techzard
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on big projects
-- 📫 You can reach me at nisammy40@gmail.com
+# Yo, I'm @sammy-techzard! 👋
 
-<!---
-sammy-techzard/sammy-techzard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 Self-taught web dev passionate about creating awesome web stuff. Learning Python these days to level up my skills and take on new challenges.
+
+🌱 Always up for learning! Exploring Python's possibilities and sharpening my problem-solving game.
+
+🤝 Love teaming up! If you're cooking up big projects, count me in. Let's collaborate and build something epic together!
+
+📧 Hit me up at nisammy40@gmail.com for a chat, project ideas, or just to geek out about tech.
+
+🚀 Check out my repos below to peep at what I'm coding. Open to new gigs and coding adventures!
+
